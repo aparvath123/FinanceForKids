@@ -3,7 +3,9 @@
 This project is about creating a fun game for kids and introducing them to finance terms and concepts. 
 
 Main features include:
+
 Main Menu: navigate to different parts of the application.  
+
 Play Games
 - Matching: match finance words to their definitions. 
 - Yahoo Finance: view the price history of stocks for the last 90 days for tickers AAPL, GOOG, & WMT.
