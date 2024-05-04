@@ -1,9 +1,4 @@
-# %%
-
-
 import pygame, sys
-# import time
-# from time import sleep
 from pygame.locals import *
 import yfinance as yf
 import pandas as pd
