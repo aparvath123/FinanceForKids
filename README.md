@@ -21,3 +21,4 @@ python3 finkids.py
 
 
 https://github.com/aparvath123/FinanceForKids/blob/main/finkidsdemo.gif 
+
