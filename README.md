@@ -20,5 +20,5 @@ How to run the code:  
 python3 finkids.py
 
 
-https://github.com/aparvath123/FinanceForKids/blob/main/finkidsdemo.gif 
+![](https://github.com/aparvath123/FinanceForKids/blob/main/finkidsdemo.gif) 
 
